@@ -1,1 +1,1 @@
-# c-project
+# c-project bank management system
